@@ -11,3 +11,8 @@
     web: node app.js
     web: node index.js
 
+- Crear una app en Heroku y se vincula con el repositorio del proyecto.
+
+ 
+
+
